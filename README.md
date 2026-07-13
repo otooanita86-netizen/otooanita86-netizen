@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anita Otoo 👋🏾</h1>
 <p align="center">
-  <em>Computer Science Student · Aspiring Software Engineer · Building in Public</em>
+  <em>Computer Science Student · Learning to build AI powered solution for maternal mothers  · Learning from scatch I am just with a mission</em>
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm currently at the beginning of my journey — learning the fundamentals, buil
 
 ### 🎯 What I'm Working Towards
 
-Building real things that solve real problems — and growing into an engineer who understands not just how to code, but why.
+Building real things that solve real problems — and learning from others ,learning in public and each step at a time 
 
 ---
 
